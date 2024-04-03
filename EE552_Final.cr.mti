@@ -1,0 +1,12 @@
+C:/Modelsim_projects/EE552_FinalProject/Part2/click_controller_submodules_tbs.sv {1 {vlog -work work -vopt -sv -stats=none C:/Modelsim_projects/EE552_FinalProject/Part2/click_controller_submodules_tbs.sv
+Model Technology ModelSim SE-64 vlog 10.6e Compiler 2018.06 Jun 23 2018
+-- Compiling module shift_click_controller_tb
+-- Compiling module copy_click_controller_tb
+-- Compiling module subtractor_merge_click_controller_tb
+
+Top level modules:
+	shift_click_controller_tb
+	copy_click_controller_tb
+	subtractor_merge_click_controller_tb
+
+} {} {}}
